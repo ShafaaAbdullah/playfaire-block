@@ -1,0 +1,8 @@
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\playfaire\playfaire\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\playfaire\playfaire\obj\Debug\playfaire.Form1.resources
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\playfaire\playfaire\obj\Debug\playfaire.Properties.Resources.resources
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\playfaire\playfaire\obj\Debug\playfaire.csproj.GenerateResource.Cache
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\playfaire\playfaire\bin\Debug\playfaire.exe
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\playfaire\playfaire\bin\Debug\playfaire.pdb
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\playfaire\playfaire\obj\Debug\playfaire.exe
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\playfaire\playfaire\obj\Debug\playfaire.pdb
